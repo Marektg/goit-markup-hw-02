@@ -3,7 +3,7 @@ Add porftolio site and add styles in CSS
 
 Project made as part of the course [FULLSTACK PROGRAMISTA OD ZERA](https://goit.global/pl/courses/fullstackonline/?utm_source=main-site) from GOIT.
 
-=> [Strona projektu](marektg.github.io/goit-markup-hw-02/)
+=> [Project page](marektg.github.io/goit-markup-hw-02/)
 
 Technologies used:
 >=> HTML
